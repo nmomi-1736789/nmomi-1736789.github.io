@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>Apprentice Embedding Work</title>
+     </head>
+     <body>
+
+     <video width="320" height="240" controls>
+       <source src="manreet-talking.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+     </video>
+
+     <iframe width="1227" height="691" src="https://www.youtube.com/embed/wJI8UeU6VbU?start=180" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <object type="application/pdf"
+         data="info101.pdf"
+         width="250"
+         height="200">
+     </object>
+     </body>
+</html>
